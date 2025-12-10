@@ -1,0 +1,36 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Java compiled files
+*.class
+
+# Kotlin compiled files
+*.kotlin_metadata
+*.kotlin_module
+*.kotlin_builtins
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Log
+*.log
+
+# Android Studio Navigation temp files
+.navigation/
+
+# Intellij
+.idea/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
